@@ -1,2 +1,8 @@
 # Jawaban UTS Berkom ITB 
-Dibuat oleh Jovan Nathaniel Permana
+## Pembuat
+Dibuat oleh Jovan Nathaniel Permana (FMIPA ITB 2026).
+
+First GitHub Account: https://github.com/jovan-AIcoder (**jovan-AIcoder**)
+
+## Tahun tersedia
+2025
